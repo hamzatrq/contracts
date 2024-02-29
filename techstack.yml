@@ -2,7 +2,7 @@ repo_name: hamzatrq/contracts
 report_id: a5108f64b9fc57d2000e7cdbf597cc74
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:11:30+00:00'
+timestamp: '2024-02-29T19:23:17+00:00'
 requested_by: avaer
 provider: github
 branch: master
@@ -43,7 +43,7 @@ tools:
   detection_source_url: https://github.com/hamzatrq/contracts
   detection_source: Repo Metadata
 - name: TRUFFLE
-  description: 'A development environment for Ethereum '
+  description: A development environment for Ethereum
   website_url: https://www.trufflesuite.com/truffle
   license: MIT
   open_source: true
